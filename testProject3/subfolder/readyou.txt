@@ -1,0 +1,4 @@
+this is another file in my Git test repository
+and I've added this second line also in version 2
+make a change to test > git status command
+add this line on master branch
